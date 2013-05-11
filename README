@@ -1,0 +1,4 @@
+spipad
+======
+
+A library to interface with SNES gamepads over SPI
